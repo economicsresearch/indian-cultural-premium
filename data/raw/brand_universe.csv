@@ -1,1 +1,4 @@
-
+brand_id,brand_name,category,subcategory,indian_origin,website,notes
+B001,Indē Wild,Beauty,Skincare,Yes,https://www.indewild.com,Indian beauty rituals and ingredients positioned for modern consumers
+B002,Khet,Fragrance,Perfume,Yes,https://khet.in,Indian stories ingredients and cultural identity are central to the brand
+B003,Gully Labs,Footwear,Sneakers,Yes,https://global.gullylabs.com,Indian street culture stories and craftsmanship are central to the brand
